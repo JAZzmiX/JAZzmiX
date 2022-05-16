@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzmix)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzmix&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazzmix&count_private=true)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jazzmix)](https://github.com/anuraghazra/github-readme-stats)
 <!--
