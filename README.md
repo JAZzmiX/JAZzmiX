@@ -40,7 +40,7 @@
 
 <div align="center" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzmix" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzmix&layout=compact" />
   </a>
   <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jazzmix&count_private=true" />
