@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/yJ3oAjy4lMqwcEoAw2/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/LIcwKtctRdCtPaaaNO/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/LIcwKtctRdCtPaaaNO/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ivchenkos/">
