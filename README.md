@@ -40,12 +40,14 @@
 <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzmix" />
 </a>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<div align="center" >
+  <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=jazzmix&count_private=true" />
 </a>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jazzmix" />
 </a>
+</div>
 <!--
 **JAZzmiX/JAZzmiX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
