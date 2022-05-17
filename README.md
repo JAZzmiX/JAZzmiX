@@ -58,7 +58,7 @@
 </div>
 <div align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jazzmix" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JAZzmiX" />
   </a>
 </div>
  
