@@ -3,14 +3,6 @@
   <img src="https://media1.giphy.com/media/LIcwKtctRdCtPaaaNO/giphy.gif" width="100"/>
   <img src="https://media4.giphy.com/media/VxKgxmwZOmsDga4KrR/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ivchenkos/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/gsa.qubit">
-    <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-</div>
 
 <h1 align="center">Hi there 👋</h1>
 
